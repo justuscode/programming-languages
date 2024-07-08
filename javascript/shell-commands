@@ -1,0 +1,39 @@
+Basic File and Directory Operations
+ls: Lists the contents of a directory.
+cd: Changes the current directory.
+pwd: Prints the current working directory.
+mkdir: Creates a new directory.
+rmdir: Removes an empty directory.
+cp: Copies files or directories.
+mv: Moves or renames files or directories.
+rm: Removes files or directories.
+File Content Viewing and Editing
+cat: Concatenates and displays file content.
+less: Views file content one screen at a time.
+head: Displays the first part of a file.
+tail: Displays the last part of a file.
+nano: Edits files using the nano text editor.
+vi or vim: Edits files using the vi/vim text editor.
+File Permissions and Ownership
+chmod: Changes file permissions.
+chown: Changes file owner and group.
+Process Management
+ps: Displays information about active processes.
+top: Displays real-time system statistics and processes.
+kill: Terminates processes.
+killall: Terminates all processes by name.
+Network Operations
+ping: Tests network connectivity.
+ifconfig or ip: Configures network interfaces.
+netstat: Displays network connections and routing tables.
+System Information
+df: Displays disk space usage.
+du: Displays disk usage of files and directories.
+free: Displays memory usage.
+uname: Displays system information.
+Miscellaneous
+echo: Outputs text to the terminal.
+date: Displays or sets the system date and time.
+history: Shows the command history.
+clear: Clears the terminal screen.
+
